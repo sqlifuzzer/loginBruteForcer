@@ -1,6 +1,5 @@
 # loginBruteForcer
-Brute force login pages with the aptly-named loginBruteForcer
-Designed to be sneaky, fast, and easy to use
+Brute force login pages with the aptly-named loginBruteForcer. Designed from the ground up to be sneaky, fast, and easy to use.
 # How Will I Know
 The legend Whitney Houston once asked: How will I know? She was, of course, aksing if a certain person would love her. But this question also applies to automated brute forcing of login pages; specifically:
 
